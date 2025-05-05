@@ -1,6 +1,6 @@
-# Batch Data Pipeline Using Apache Airflow, Spark, AWS EMR and Snowflake
+# Batch Data Pipeline Using Apache Airflow, Spark, AWS EMR, and Snowflake
 
-This project will demonstrate the use of:
+I built this project with the object of learning how to build batch data pipeline by integrating
 
 ✅ Airflow to orchestrate and manage the data pipeline
 
