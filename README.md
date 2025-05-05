@@ -11,10 +11,6 @@ This project will demonstrate the use of:
 ✅ Use Airflow to create the EMR cluster, and then terminate once the processing is complete to save on cost.
 
 
-## Data Flow Model 
+## Data Pipeline Architecture 
 
-<img width="1289" alt="Screenshot 2023-05-31 at 4 36 50 PM" src="https://github.com/Tekraj15/Data-pipeline-Airflow-Spark-EMR/assets/38464224/c7c9ac71-0bdd-4fb5-8679-6672d1f1c7a6">
-
-
-
-
+<img width="724" alt="Screenshot 2025-05-05 at 7 59 36 PM" src="https://github.com/user-attachments/assets/1daf24b8-fa78-4366-b8ba-c6e042b20bb6" />
